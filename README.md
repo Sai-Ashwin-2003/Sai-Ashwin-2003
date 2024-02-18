@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sai-Ashwin-Kumaar
-- 🌱 I’m currently learning C,Python
+- 🌱 I’m currently learning Python, SQL, Powerbi, Excel..
 - 📫 How to reach me saiashwin082@gmail.com
 
 <!---
