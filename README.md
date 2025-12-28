@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sai-Ashwin-Kumaar
-- 🌱 I’m currently learning JAVA.
+- 💪 I’m a software engineer analyst at Techjays
 - 📫 How to reach me s.saiashwinkumaar@gmail.com
 
 <!---
